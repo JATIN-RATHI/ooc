@@ -1,8 +1,10 @@
-% Stack add {
+% Stack add 
+{
 	return addLast(_self, element);
 }
 
-% Stack take {
+% Stack take
+{
 	return takeLast(_self);
 }
 
